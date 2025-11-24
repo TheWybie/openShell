@@ -1,0 +1,4 @@
+echo hi!
+sum 1 20 10
+echo done!
+exit
